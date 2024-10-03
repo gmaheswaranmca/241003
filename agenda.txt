@@ -67,8 +67,26 @@
 
         The "+" command and "commit" together will upate the changed 
         files into local repo. 
+                    OR 
+        in the command prompt:
+           $ git add .
+           $ git commit -m "message"
+        to check the command are working or not:
+            $ git status 
 
-    B. Sync 
+    B. "Sync" command will take the local changes to "remote repo" 
+        The sync is nothing but "git pull + git push"
+
+        OR 
+
+        in the command prompt:
+           $ git pull origin main 
+           $ git push origin main 
+
+           
+
+
+
 
         
 
