@@ -1,0 +1,10 @@
+what is github?
+  github is the remote server 
+  in which we can maintain the remote repos. 
+what is git?
+  git is the source code management tool 
+  with which we can maintain the source code or file versions 
+  via git repo.
+what is git repo?
+  git repo like database or repository or repo for our source code management 
+  of file versions management. 
