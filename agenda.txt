@@ -61,6 +61,15 @@
         This "+" is the "git add" command 
             We are staging the changed files 
             We can see here the "staged changes" section.
+
+
+        Then we are raising the command "Commit" with message.
+
+        The "+" command and "commit" together will upate the changed 
+        files into local repo. 
+
+    B. Sync 
+
         
 
         
